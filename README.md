@@ -1,19 +1,58 @@
 # ntu-omnipath
 
-# 📘 OmniPath How-To Guide
+## Setting Up Locally
+### Client
+### Server
 
-| No. | Task                                              | Steps |
-|-----|---------------------------------------------------|-------|
-| 1 | **How to Update the JSON File with New Destinations** | - Open `north_spine_locations.json` in a text/code editor.<br>- Add a new destination entry (name, latitude, longitude, zLevel).<br>- Save, commit, and push to the repository.<br>- Restart the backend server if needed. |
-| 2 | **How to Replace a QR Code at a Physical Location** | - Identify the original anchor point.<br>- Reprint and laminate the QR code.<br>- Reinstall it in the same location.<br>- Test the scan to confirm it works. |
-| 3 | **How to Recalibrate AR Path if Misaligned** | - Rescan the QR code under good lighting.<br>- Restart the app if needed.<br>- Adjust the QR placement and update coordinates if required. |
-| 4 | **How to Deploy a New Version of the App** | - Finalize changes in Unity and Flask.<br>- Export the iOS build and open in Xcode.<br>- Archive and upload to TestFlight/App Store Connect.<br>- Monitor and notify users. |
-| 5 | **How to Test if the Navigation Server is Working** | - Send a GET request via Postman/CURL.<br>- Confirm 200 OK response and valid JSON.<br>- Restart Flask server if issues occur. |
-| 6 | **How to Update Destination Coordinates** | - Open the JSON file.<br>- Edit the lat/long/zLevel of the destination.<br>- Save and push updates.<br>- Restart server if needed. |
-| 7 | **How to Handle Feedback Reports from Users** | - Note feedback from students<br>- Document and prioritize issues.<br>- Assign tasks or log tickets. |
-| 8 | **How to Add a New Feature to the UI** | - Open the Unity project.<br>- Create UI elements under Canvas.<br>- Write and attach C# scripts.<br>- Connect in Unity Inspector and test before deployment. |
-| 9 | **task** | - stap1<br>- step2<br> |
-| 10 | **task** | - stap1<br>- step2<br> |
-| 11 | **task** | - stap1<br>- step2<br> |
+## 📘 OmniPath How-To Guide
+
+
+### How to Update the JSON File with New Destinations
+  - Open `north_spine_locations.json` in a text/code editor.
+  - Add a new destination entry with the following format (compulsory fields):
+  ```json
+  {
+    "name" : "The Location Name",
+    "address" : "Level - L1",
+    "latitude" : 1.123,
+    "longitude" : 103.123,
+    "level" : 0
+  }
+  ```
+  - Save, commit, and push to the repository.
+  - Restart the backend server if needed. 
+### How to Replace a QR Code at a Physical Location 
+  - Identify the original anchor point.
+  - Reprint and laminate the QR code.
+  - Reinstall it in the same location.
+  - Test the scan to confirm it works.
+### How to Recalibrate AR Path if Misaligned 
+  - Rescan the QR code under good lighting.
+  - Restart the app if needed.
+  - Adjust the QR placement and update coordinates if required.
+### How to Deploy a New Version of the App
+  - Finalize changes in Unity and Flask.
+  - Export the iOS build and open in Xcode.
+  - Archive and upload to TestFlight/App Store Connect.
+  - Monitor and notify users.
+### How to Test if the Navigation Server is Working
+  - Send a GET request via Postman/CURL.
+  - Confirm 200 OK response and valid JSON.
+  - Restart Flask server if issues occur.
+### How to Update Destination Coordinates
+  - Open the JSON file.
+  - Edit the lat/long/zLevel of the destination.
+  - Save and push updates.
+  - Restart server if needed.
+### How to Handle Feedback Reports from Users
+  - Note feedback from students.
+  - Document and prioritize issues.
+  - Assign tasks or log tickets.
+### How to Add a New Feature to the UI
+  - Open the Unity project.
+  - Create UI elements under Canvas.
+  - Write and attach C# scripts.
+  - Connect in Unity Inspector and test before deployment.
+
 
 
