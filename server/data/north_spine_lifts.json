@@ -1,0 +1,170 @@
+[
+    {
+        "name": "LF1-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3471518,
+        "longitude": 103.6810619,
+        "hash": "636f5120fa600c925455df9be1a4a20c05422c7a6106ced565b82570e36f32ef"
+    },
+    {
+        "name": "LF1-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3471518,
+        "longitude": 103.6810619,
+        "hash": "6096e14a1985cdd6561c857cf3f26d6f6da7937369e47a1509722c71742ea914"
+    },
+    {
+        "name": "LF1-4",
+        "zLevel": 40,
+        "floor_name": "L4",
+        "latitude": 1.3471518,
+        "longitude": 103.6810619,
+        "hash": "9959d8dc6f1416645868d11b9fcb34d284834ca32afc6ccd1a8294d18a8f2afe"
+    },
+    {
+        "name": "LF1-5",
+        "zLevel": 50,
+        "floor_name": "L5",
+        "latitude": 1.3471518,
+        "longitude": 103.6810619,
+        "hash": "410bc859037f8a91e0e773c3326dc0ab44d08d6ba816c2992f59ef294a45cb70"
+    },
+    {
+        "name": "LF2-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3462829,
+        "longitude": 103.6810614,
+        "hash": "ef2fdd1cf3823ccd81e288d6e7e6ec29d0e3fcc18c22e9f5cbbfcf575ebb4bf0"
+    },
+    {
+        "name": "LF2-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3462829,
+        "longitude": 103.6810614,
+        "hash": "822e39f0e8b34b3ab5bad4f5a6916aa158aa6b399911d7ab210bc822d7bdb4b0"
+    },
+    {
+        "name": "LF2-4",
+        "zLevel": 40,
+        "floor_name": "L4",
+        "latitude": 1.3462829,
+        "longitude": 103.6810614,
+        "hash": "a2b81e2dbdb034aa1962ea6d4df5da1b4372bda19a7b9d6f7aee5bbc54291c96"
+    },
+    {
+        "name": "LF2-5",
+        "zLevel": 50,
+        "floor_name": "L5",
+        "latitude": 1.3462829,
+        "longitude": 103.6810614,
+        "hash": "86ceded1427e01e153a3eb93553034d4d045bde69b6b5f6abe74913eef821e9f"
+    },
+    {
+        "name": "LF3-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3465008,
+        "longitude": 103.6807125,
+        "hash": "ad7e83e3257c655c8d2f2a411d40344f669f948bad7992576f48cde2999ae779"
+    },
+    {
+        "name": "LF3-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3465008,
+        "longitude": 103.6807125,
+        "hash": "989d154d290a7be512266b37aecbc84a95c922e168d333d7253d17d3e71ed613"
+    },
+    {
+        "name": "LF3-2",
+        "zLevel": 40,
+        "floor_name": "L4",
+        "latitude": 1.3465008,
+        "longitude": 103.6807125,
+        "hash": "2a11d4ccb37e0d98ba03932cc4f98e44c3a825c748972110f861e9b9d692154a"
+    },
+    {
+        "name": "LF3-5",
+        "zLevel": 50,
+        "floor_name": "L5",
+        "latitude": 1.3465006,
+        "longitude": 103.68070323,
+        "hash": "5fb8b55a303b91bf61d6faa0de7dc35ad609012992265e6ffa13ba49ea8fe76e"
+    },
+    {
+        "name": "LF4-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3456316,
+        "longitude": 103.6807113,
+        "hash": "ab8e5018353d46847ff54f1cbeb420610bf3dd7c503cf15c10eb6451edf48bd4"
+    },
+    {
+        "name": "LF4-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3456316,
+        "longitude": 103.6807113,
+        "hash": "6dccf4e9ab9e20f25da021f0b1ca546e680e1ee09e27a0a0437704bc4f75b8ba"
+    },
+    {
+        "name": "LF4-4",
+        "zLevel": 40,
+        "floor_name": "L4",
+        "latitude": 1.3456316,
+        "longitude": 103.6807113,
+        "hash": "6a932ff285cf8a52df66df29048220be99b4db3db966459603e28f73e30ca850"
+    },
+    {
+        "name": "LF4-5",
+        "zLevel": 50,
+        "floor_name": "L5",
+        "latitude": 1.3456316,
+        "longitude": 103.6807113,
+        "hash": "26a6feff01b6148423691ee05ac82361b463ff48ef009c573a216c79b174e241"
+    },
+    {
+        "name": "LF5-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3473703,
+        "longitude": 103.6807125,
+        "hash": "6e625fccfe2f58cc7ec9079ae2cb518a1cf86b25900d846aa9f67420357e2530"
+    },
+    {
+        "name": "LF5-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3473703,
+        "longitude": 103.6807125,
+        "hash": "5d8b9494510099a7b3ee4aa27efd199dd7d9b59f123fd8e7edb27491fc805099"
+    },
+    {
+        "name": "LF5-3",
+        "zLevel": 30,
+        "floor_name": "L3",
+        "latitude": 1.3473703,
+        "longitude": 103.6807125,
+        "hash": "1202134df1eb25d66b2ced183495572b155289d9572908c4e633a4c703661912"
+    },
+    {
+        "name": "LF5-4",
+        "zLevel": 40,
+        "floor_name": "L4",
+        "latitude": 1.3473703,
+        "longitude": 103.6807125,
+        "hash": "6ac937af08d691f02199fbe8c3ce0e646f729d12f51436060d588a5d4e0eb884"
+    },
+    {
+        "name": "LF5-5",
+        "zLevel": 50,
+        "floor_name": "L5",
+        "latitude": 1.3473703,
+        "longitude": 103.6807125,
+        "hash": "a6c862d0913d7989008025b595c09d11e09bc6cb647e1f513688942ac0ac1ed5"
+    }
+]

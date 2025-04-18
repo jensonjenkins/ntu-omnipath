@@ -1,0 +1,943 @@
+AirTop @ ATMRI (NS)
+N3.2-B3M-10, Level - B3M
+
+
+Meeting Room 3 - SAC (NS)
+NS3-01-05-MR3, Level - L1
+
+
+Library Staff Office (NS)
+NS3-05-43, Level - L5
+
+
+Lee Wee Nam Library (NS)
+NS3-03-01, Level - L3
+
+
+Office of Information, Knowledge & Library Services [OIKLS] (NS)
+NS3-04-17, Level - L4
+
+
+One Stop@SAC (NS)
+NS3-01-03/03A, Level - L1
+
+
+Student Activities Centre by NTUSU (NS)
+NS3-01-05, Level - L1
+
+
+Pick Lockers (NS)
+Level - L1
+
+
+Athena Reading Room (NS)
+NS3-03-02, Level - L3
+
+
+Metis Reading Room (NS)
+NS3-05-78, Level - L5
+
+
+Meeting Room 1 - SAC (NS)
+NS3-01-05-MR1, Level - L1
+
+
+Meeting Room 2 - SAC (NS)
+NS3-01-05-MR2, Level - L1
+
+
+MyStage (SAC) (NS)
+Level - L1
+
+
+Student Global Lounge (NS)
+NS3-01-06, Level - L1
+
+
+The Green Space @ L1 (NS)
+Level - L1
+
+
+Digital Media - CITS (NS)
+NS3-04-24A, Level - L4
+
+
+Octobox (NS)
+NS3-01-02, Level - L1
+
+
+ATM - ICBC (NS)
+NS3-02, Level - L2
+
+
+Minerva Reading Room (NS)
+NS3-03-03, Level - L3
+
+
+Photo-Me (NS)
+NS3-02, Level - L2
+
+
+LT2A (NS)
+LT2A-01-01,
+
+
+Booklink (NS)
+NS3-01-25, Level - L1
+
+
+AXS Station (NS)
+NS3-02, Level - L2
+
+
+Tutorial Room + 2 (NS)
+NS4-05-80, Level - L5
+
+
+University Wellbeing Office [UWO] (NS)
+Level - L2
+
+
+ATM - DBS/POSB (NS)
+NS3-02, Level - L2
+
+
+Yilin Likes Tea (NS)
+NS3-01-07, Level - L1
+
+
+ATM - UOB (NS)
+NS3-02, Level - L2
+
+
+Tutorial Room + 1 (NS)
+NS4-05-79, Level - L5
+
+
+Booth @ L2 (NS)
+Level - L2
+
+
+HOLA Mobile Pitstop (NS)
+NS3-01-07, Level - L1
+
+
+Banner @ Marketplace (NS)
+Level - L1
+
+
+Chateraise (NS)
+NS3-01-08, Level - L1
+
+
+Training Room - CITS (NS)
+NS4-04-29, Level - L4
+
+
+U-shop (NS)
+NS3-01-17/18, Level - L1
+
+
+Tutorial Room + 4 (NS)
+NS4-05-82, Level - L5
+
+
+Tutorial Room + 3 (NS)
+NS4-05-81, Level - L5
+
+
+Geláre (NS)
+NS3-01-19, Level - L1
+
+
+Prime Supermarket (NS)
+NS3-01-26/27/28, Level - L1
+
+
+Marketplace (NS)
+Level - L1
+
+
+Frank by OCBC - NTU Branch (NS)
+NS3-01-01, Level - L1
+
+
+AIA Canopy (NS)
+Level - L1
+
+
+Bakery Cuisine (NS)
+NS3-01-20, Level - L1
+
+
+Pasta Express (NS)
+NS3-01-17, Level - L1
+
+
+ATM - OCBC (NS)
+NS3-01, Level - L1
+
+
+Tutorial Room + 5 (NS)
+NS4-05-83, Level - L5
+
+
+Tutorial Room + 6 (NS)
+NS4-05-84, Level - L5
+
+
+Foyer @ LT1 (NS)
+Level - L2
+
+
+Designated Smoking Area 5 (NS)
+Foyer @ LT2A (NS)
+
+
+Tutorial Room + 2 (NS)
+NS4-05-80, Level - L5
+
+
+Tutorial Room + 1 (NS)
+NS4-05-79, Level - L5
+
+
+Tutorial Room + 4 (NS)
+NS4-05-82, Level - L5
+
+
+Tutorial Room + 3 (NS)
+NS4-05-81, Level - L5
+
+
+Tutorial Room + 5 (NS)
+NS4-05-83, Level - L5
+
+
+Tutorial Room + 6 (NS)
+NS4-05-84, Level - L5
+
+
+Tutorial Room + 7 (NS)
+NS4-05-85, Level - L5
+
+
+Tutorial Room + 8 (NS)
+NS4-05-86, Level - L5
+
+
+Tutorial Room + 9 (NS)
+NS4-05-87, Level - L5
+
+
+Tutorial Room + 36 (NS)
+NS2-05-29, Level - L5
+
+
+Tutorial Room + 37 (NS)
+NS2-05-30, Level - L5
+
+
+Tutorial Room + 35 (NS)
+NS2-05-28, Level - L5
+
+
+Tutorial Room + 16 (NS)
+NS4-05-94, Level - L5
+
+
+Tutorial Room + 15 (NS)
+NS4-05-93, Level - L5
+
+
+Tutorial Room + 34 (NS)
+NS2-05-27, Level - L5
+
+
+Tutorial Room + 33 (NS)
+NS2-05-26, Level - L5
+
+
+Tutorial Room + 17 (NS)
+NS4-05-95, Level - L5
+
+
+Tutorial Room + 18 (NS)
+NS4-05-96, Level - L5
+
+
+Tutorial Room + 31 (NS)
+NS2-05-24, Level - L5
+
+
+Tutorial Room + 32 (NS)
+NS2-05-25, Level - L5
+
+
+Tutorial Room + 19 (NS)
+NS4-05-97, Level - L5
+
+
+Tutorial Room + 20 (NS)
+NS4-05-98, Level - L5
+
+
+Tutorial Room + 29 (NS)
+NS2-05-22, Level - L5
+
+
+Tutorial Room + 30 (NS)
+NS2-05-23, Level - L5
+
+
+Tutorial Room + 21 (NS)
+NS4-05-99, Level - L5
+
+
+Tutorial Room + 22 (NS)
+NS4-05-100, Level - L5
+
+
+Tutorial Room + 23 (NS)
+NS4-05-101, Level - L5
+
+
+Tutorial Room + 44 (N2)
+N2-B2A-06, Level - B2
+
+
+Tutorial Room + 43 (N2)
+N2-B2A-05, Level - B2
+
+
+Chateraise (NS)
+NS3-01-08, Level - L1
+
+
+Geláre (NS)
+NS3-01-19, Level - L1
+
+
+Bakery Cuisine (NS)
+NS3-01-20, Level - L1
+
+
+Pasta Express (NS)
+NS3-01-17, Level - L1
+
+
+Each-A-Cup (NS)
+NS3-01-21, Level - L1
+
+
+Paik's Bibim Bibimbap (NS)
+NS3-01-15, Level - L1
+
+
+QQ Rice (NS)
+NS3-01-22, Level - L1
+
+
+The Soup Spoon Union (NS)
+NS3-01-14, Level - L1
+
+
+The Crowded Bowl (NS)
+NS3-01-18, Level - L1
+
+
+Mr Bean (NS)
+NS3-01-16, Level - L1
+
+
+Wok Express (NS)
+NS3-01-23, Level - L1
+
+
+Boost Juice Bars (NS)
+NS3-01-11, Level - L1
+
+
+The House Steam Boat Restaurant (NS)
+NS3-01-24, Level - L1
+
+
+Venture Drive Coffee (NS)
+NS3-01-13, Level - L1
+
+
+McDonald's (N2.1)
+N2.1-01-08, Level - L1
+
+
+Encik Tan (N2.1)
+N2.1-01-04, Level - L1
+
+
+Popeyes (N2.1)
+N2.1-01-04, Level - L1
+
+
+Subway (N2.1)
+N2.1-01-07, Level - L1
+
+
+North Spine Food Court / Canteen A / Koufu (N2.1)
+N2.1-02-01/03, Level - L2
+
+
+PEN & INC (N2.1)
+N2.1-01-01, Level - L1
+
+
+Starbucks Coffee (N2.1)
+N2.1-01-06, Level - L1
+
+
+Blue Ocean Kopi & Toast (N2.1)
+N2.1-01-05, Level - L1
+
+
+Athena Reading Room (NS)
+NS3-03-02, Level - L3
+
+
+Metis Reading Room (NS)
+NS3-05-78, Level - L5
+
+
+Minerva Reading Room (NS)
+NS3-03-03, Level - L3
+
+
+Tutorial Room + 2 (NS)
+NS4-05-80, Level - L5
+
+
+Tutorial Room + 1 (NS)
+NS4-05-79, Level - L5
+
+
+Tutorial Room + 4 (NS)
+NS4-05-82, Level - L5
+
+
+Tutorial Room + 3 (NS)
+NS4-05-81, Level - L5
+
+
+Tutorial Room + 5 (NS)
+NS4-05-83, Level - L5
+
+
+Tutorial Room + 6 (NS)
+NS4-05-84, Level - L5
+
+
+Tutorial Room + 7 (NS)
+NS4-05-85, Level - L5
+
+
+Tutorial Room + 8 (NS)
+NS4-05-86, Level - L5
+
+
+Tutorial Room + 9 (NS)
+NS4-05-87, Level - L5
+
+
+LT1 (NS)
+NS3-02-09, Level - L2
+
+
+LT1A (NS)
+LT1A-01-01, Level - L1
+
+
+Tutorial Room + 36 (NS)
+NS2-05-29, Level - L5
+
+
+Tutorial Room + 37 (NS)
+NS2-05-30, Level - L5
+
+
+LT5 (NS)
+NS2-02-07, Level - L2
+
+
+Tutorial Room + 35 (NS)
+NS2-05-28, Level - L5
+
+
+LT11 (NS)
+NS2-04-15, Level - L4
+
+
+Tutorial Room + 16 (NS)
+NS4-05-94, Level - L5
+
+
+Tutorial Room + 15 (NS)
+NS4-05-93, Level - L5
+
+
+Tutorial Room + 34 (NS)
+NS2-05-27, Level - L5
+
+
+LT3 (NS)
+NS4-02-32, Level - L2
+
+
+Tutorial Room + 33 (NS)
+NS2-05-26, Level - L5
+
+
+LT12 (NS)
+NS2-04-13, Level - L4
+
+
+Tutorial Room + 17 (NS)
+NS4-05-95, Level - L5
+
+
+Tutorial Room + 18 (NS)
+NS4-05-96, Level - L5
+
+
+Tutorial Room + 31 (NS)
+NS2-05-24, Level - L5
+
+
+Tutorial Room + 32 (NS)
+NS2-05-25, Level - L5
+
+
+LT13 (NS)
+NS2-04-11, Level - L4
+
+
+LT6 (NS)
+NS2-02-05, Level - L2
+
+
+Tutorial Room + 19 (NS)
+NS4-05-97, Level - L5
+
+
+Tutorial Room + 20 (NS)
+NS4-05-98, Level - L5
+
+
+LT9 (NS)
+NS4-04-39, Level - L4
+
+
+Tutorial Room + 29 (NS)
+NS2-05-22, Level - L5
+
+
+Tutorial Room + 30 (NS)
+NS2-05-23, Level - L5
+
+
+LT14 (NS)
+NS2-04-09, Level - L4
+
+
+Tutorial Room + 21 (NS)
+NS4-05-99, Level - L5
+
+
+LT4 (NS)
+NS4-02-34, Level - L2
+
+
+Tutorial Room + 22 (NS)
+NS4-05-100, Level - L5
+
+
+LT10 (NS)
+NS4-04-41, Level - L4
+
+
+Tutorial Room + 23 (NS)
+NS4-05-101, Level - L5
+
+
+LT2 - Tan Chin Tuan LT (NS)
+NS4-02-36, Level - L2
+
+
+LT15 (NS)
+NS1-04-07, Level - L4
+
+
+LT7 (NS)
+NS1-02-03, Level - L2
+
+
+LT16 (NS)
+NS1-04-05, Level - L4
+
+
+LT17 (NS)
+NS1-04-03, Level - L4
+
+
+LT8 (NS)
+NS1-02-01, Level - L2
+
+
+LT1 (NS)
+NS3-02-09, Level - L2
+
+
+LT5 (NS)
+NS2-02-07, Level - L2
+
+
+LT3 (NS)
+NS4-02-32, Level - L2
+
+
+LT6 (NS)
+NS2-02-05, Level - L2
+
+
+LT9 (NS)
+NS4-04-39, Level - L4
+
+
+LT4 (NS)
+NS4-02-34, Level - L2
+
+
+LT7 (NS)
+NS1-02-03, Level - L2
+
+
+LT2A (NS)
+LT2A-01-01,
+
+
+LT8 (NS)
+NS1-02-01, Level - L2
+
+
+LT1A (NS)
+LT1A-01-01, Level - L1
+
+
+LT11 (NS)
+NS2-04-15, Level - L4
+
+
+LT12 (NS)
+NS2-04-13, Level - L4
+
+
+LT13 (NS)
+NS2-04-11, Level - L4
+
+
+LT14 (NS)
+NS2-04-09, Level - L4
+
+
+LT10 (NS)
+NS4-04-41, Level - L4
+
+
+LT15 (NS)
+NS1-04-07, Level - L4
+
+
+LT16 (NS)
+NS1-04-05, Level - L4
+
+
+LT17 (NS)
+NS1-04-03, Level - L4
+
+
+LT18 (NS)
+NS1-04-01, Level - L4
+
+
+LT19A (NS)
+LT19A-01-01,
+
+
+Metis Reading Room (NS)
+NS3-05-78, Level - L5
+
+
+Tutorial Room + 2 (NS)
+NS4-05-80, Level - L5
+
+
+Tutorial Room + 1 (NS)
+NS4-05-79, Level - L5
+
+
+Athena Reading Room (NS)
+NS3-03-02, Level - L3
+
+
+Tutorial Room + 4 (NS)
+NS4-05-82, Level - L5
+
+
+Tutorial Room + 3 (NS)
+NS4-05-81, Level - L5
+
+
+Tutorial Room + 5 (NS)
+NS4-05-83, Level - L5
+
+
+Tutorial Room + 6 (NS)
+NS4-05-84, Level - L5
+
+
+Tutorial Room + 7 (NS)
+NS4-05-85, Level - L5
+
+
+Tutorial Room + 8 (NS)
+NS4-05-86, Level - L5
+
+
+Tutorial Room + 9 (NS)
+NS4-05-87, Level - L5
+
+
+Minerva Reading Room (NS)
+NS3-03-03, Level - L3
+
+
+Tutorial Room + 36 (NS)
+NS2-05-29, Level - L5
+
+
+Tutorial Room + 37 (NS)
+NS2-05-30, Level - L5
+
+
+Tutorial Room + 35 (NS)
+NS2-05-28, Level - L5
+
+
+Tutorial Room + 16 (NS)
+NS4-05-94, Level - L5
+
+
+Tutorial Room + 15 (NS)
+NS4-05-93, Level - L5
+
+
+Tutorial Room + 34 (NS)
+NS2-05-27, Level - L5
+
+
+Tutorial Room + 33 (NS)
+NS2-05-26, Level - L5
+
+
+Tutorial Room + 17 (NS)
+NS4-05-95, Level - L5
+
+
+Tutorial Room + 18 (NS)
+NS4-05-96, Level - L5
+
+
+LT2 - Tan Chin Tuan LT (NS)
+NS4-02-36, Level - L2
+
+
+Tutorial Room + 31 (NS)
+NS2-05-24, Level - L5
+
+
+Tutorial Room + 32 (NS)
+NS2-05-25, Level - L5
+
+
+Tutorial Room + 19 (NS)
+NS4-05-97, Level - L5
+
+
+Tutorial Room + 20 (NS)
+NS4-05-98, Level - L5
+
+
+Tutorial Room + 29 (NS)
+NS2-05-22, Level - L5
+
+
+Tutorial Room + 30 (NS)
+NS2-05-23, Level - L5
+
+
+Tutorial Room + 21 (NS)
+NS4-05-99, Level - L5
+
+
+Tutorial Room + 22 (NS)
+NS4-05-100, Level - L5
+
+
+Kalms (NS)
+NS3-02-01, Level - L2
+
+
+U-shop (NS)
+NS3-01-17/18, Level - L1
+
+
+Octobox (NS)
+NS3-01-02, Level - L1
+
+
+Geláre (NS)
+NS3-01-19, Level - L1
+
+
+QQ Rice (NS)
+NS3-01-22, Level - L1
+
+
+Mr Bean (NS)
+NS3-01-16, Level - L1
+
+
+Photo-Me (NS)
+NS3-02, Level - L2
+
+
+Booklink (NS)
+NS3-01-25, Level - L1
+
+
+Sky Deck (NS)
+Level - L2
+
+
+ATM - UOB (NS)
+NS3-02, Level - L2
+
+
+Post Box (NS)
+Level - L1
+
+
+AirTop @ ATMRI (NS)
+N3.2-B3M-10, Level - B3M
+
+
+ATM - ICBC (NS)
+NS3-02, Level - L2
+
+
+Booth @ L2 (NS)
+Level - L2
+
+
+Chateraise (NS)
+NS3-01-08, Level - L1
+
+
+AIA Canopy (NS)
+Level - L1
+
+
+ATM - OCBC (NS)
+NS3-01, Level - L1
+
+
+Each-A-Cup (NS)
+NS3-01-21, Level - L1
+
+
+AXS Station (NS)
+NS3-02, Level - L2
+
+
+One Stop@SAC (NS)
+NS3-01-03/03A, Level - L1
+
+
+Pick Lockers (NS)
+Level - L1
+
+
+Marketplace (NS)
+Level - L1
+
+
+Open Deck (NS)
+Level - L2
+
+
+Foyer @ LT1 (NS)
+Level - L2
+
+
+Wok Express (NS)
+NS3-01-23, Level - L1
+
+
+North Spine (NS)
+Level - L1
+
+
+MyStage (SAC) (NS)
+Level - L1
+
+
+Foyer @ LT2A (NS)
+Level - L1
+
+
+Foyer @ LT1A (NS)
+Level - L1
+
+
+High Performance Computing Centre [HPCC] (NS)
+NS4-04-25, Level - L4
+
+
+Biomedical Informatics Lab [BIL] (NS)
+NS4-04-33, Level - L4
+
+
+Communication Skills Lab 3 - HSS (NS)
+NS4-04-38, Level - L4
+
+
+Communication Skills Lab 2 - HSS (NS)
+NS4-04-37, Level - L4
+
+
+Communication Skills Lab 1 - HSS (NS)
+NS4-04-36, Level - L4
+
+
+Biometrics & Forensics Lab [BFL] (NS)
+NS1-05-01A, Level - L5
+
+
+NTU Academy for Professional and Continuing Education [NTU PACE] (NS)
+NS1-05-01, Level - L5
+
+
+Labs (NS)
+NS4-05-92A,  Level - L5
+
+
+Office of Health, Safety & Emergency [OHSE] (NS)
+NS2-05-36, Level - L5 
+

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "S2-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3469309,
+        "longitude": 103.6811233,
+        "hash": "ef53c8345788c6a0d9223b8eca37be9dada6338fc41309e48bb39fa688ed13bb"
+    },
+    {
+        "name": "S2-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3469309,
+        "longitude": 103.6811233,
+        "hash": "abb442a446952b50259f8e2bbffa4adddcd1206cb4c9c362c5d1b5159fb5fb0e"
+    },
+    {
+        "name": "S2-4",
+        "zLevel": 40,
+        "floor_name": "L4",
+        "latitude": 1.3469309,
+        "longitude": 103.6811233,
+        "hash": "c27ec89e3595de653d6e79068d5ba735e77fef51835c02c18c4a1ad90cdf8079"
+    },
+    {
+        "name": "S3-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3471119,
+        "longitude": 103.6809172,
+        "hash" : "b27fd178dc4cb04cab0e7e26d0418bc4fdd7065b6012927a21cd81a4f5e753c3"
+    },
+    {
+        "name": "S3-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3471119,
+        "longitude": 103.6809172,
+        "hash" : "c83db2d7a4dc733b85dec8106c2d74577ee557d06c0ee603e4be534abe5cc6aa"
+    },
+    {
+        "name": "S6-1",
+        "zLevel": 0,
+        "floor_name": "L1",
+        "latitude": 1.3462877,
+        "longitude": 103.681123,
+        "hash" : "fedde7776014e2db269098ff47fcea2c1ce53da0901a6dfd4c96885670676092"
+    },
+    {
+        "name": "S6-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3462877,
+        "longitude": 103.681123,
+        "hash" : "5762ac7b5300b797ea8a177ae4e1b5e5b1d3ebce044771f519d9ada42f61c293"
+    },
+    {
+        "name": "S7-2",
+        "zLevel": 20,
+        "floor_name": "L2",
+        "latitude": 1.3460595,
+        "longitude": 103.681123,
+        "hash": "4c8e2f33ff49b6dd6da56f027c97c9b74e26c0d50771ecad24668181d490f63a"
+    },
+    {
+        "name": "S7-4",
+        "zLevel": 40,
+        "floor_name": "L4",
+        "latitude": 1.3460595,
+        "longitude": 103.681123,
+        "hash": "ca7a90071ea5b0f3522db2f73a8d4169f4d7c47d68f06576c30c1562668e54c5"
+    },
+    {
+        "name": "S7-5",
+        "zLevel": 50,
+        "floor_name": "L5",
+        "latitude": 1.3460595,
+        "longitude": 103.681123,
+        "hash": "7b2054194c7aceaa174e992012428711801942e5907d1e4523fc986a007db5f8"
+    }
+
+]
