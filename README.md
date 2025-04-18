@@ -55,25 +55,6 @@ Make sure to have the following installed:
           -d '{"origin": "LT8 (NS)", "dest": "LT9 (NS)"}'
     ```
     The 'd' flag contains a JSON payload with fields "origin" and "dest". The values must be exactly as written in the `north_spine_locations.json`
-### How to Replace a QR Code at a Physical Location 
-  - Identify the original anchor point.
-  - Reprint and laminate the QR code.
-  - Reinstall it in the same location.
-  - Test the scan to confirm it works.
-### How to Recalibrate AR Path if Misaligned 
-  - Rescan the QR code under good lighting.
-  - Restart the app if needed.
-  - Adjust the QR placement and update coordinates if required.
-### How to Add a New Feature to the UI
-  - Open the Unity project.
-  - Create UI elements under Canvas.
-  - Write and attach C# scripts.
-  - Connect in Unity Inspector and test before deployment.
-### How to Deploy a New Version of the App
-  - Finalize changes in Unity and Flask.
-  - Export the iOS build and open in Xcode.
-  - Archive and upload to TestFlight/App Store Connect.
-  - Monitor and notify users.
 
 
 
