@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e27a4b4bd0eaa4b3d8aebc39ee5ef529
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: bde3e757c94bc43ccb60e610d82322c6, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3b33f1d44cc32534488cbe66a858479a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 972520181bb8344fb935876d9854573d, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 11329059ea90d462987defb2d8d3a2b8, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c6062294dc453d14bba6b8c4a505ae52, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 006c669fa06364727b72240abb6b90ef, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 32556cf3ac7558c428af67e9b6ad7e72, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b2e9ae10b19a34de989d2c8cbb57ae31, type: 2}
+  m_UseUCBPForAssetBundles: 0
