@@ -50,11 +50,18 @@ Make sure to have the following installed:
 ### How to Test if the Navigation Server is Working
   - To test the `get_lift` endpoint, an example would be the following if the server ran at `http:://0.0.0.0:8080` :
     ```bash
-    curl  -X POST http://0.0.0.0:8080/api/get-stairs \
+    curl  -X POST http://0.0.0.0:8080/api/get-lift \
           -H 'Content-Type: application/json' \
           -d '{"origin": "LT8 (NS)", "dest": "LT9 (NS)"}'
     ```
     The 'd' flag contains a JSON payload with fields "origin" and "dest". The values must be exactly as written in the `north_spine_locations.json`
+  - Similarly to test the `get_toilet` endpoint, an example would be
+    ```bash
+    curl  -X POST http://0.0.0.0:8080/api/get-toilet \
+          -H 'Content-Type: application/json' \
+          -d '{"origin": "LT8 (NS)", "gender": "male"}'
+    ```
+    Where `gender` is either `male` or `female`.
 
 
 
